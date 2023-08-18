@@ -1,4 +1,4 @@
-module github.com/kayrus/putty
+module github.com/jbuchbinder/go-putty
 
 go 1.20
 
